@@ -1,0 +1,14 @@
+name: development
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip:
+    - sentencepiece
+    - transformers
+    - timm
+    - fairscale
+    - azure-storage-file-datalake==12.7.0
+    - opencv-python
+    - flashtext
+    - openai
