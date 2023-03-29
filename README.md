@@ -113,7 +113,7 @@ A new Synapse workspace and all cluster configuration and notebooks can be deplo
 
 1) Download and install [jq](https://stedolan.github.io/jq/download/), a lightweight and flexible command-line JSON processor
 
-1) Azure Data Lake Storage Gen2 storage account - The Azure Synapse workspace needs to be able to read and write to the selected ADLS Gen2 account. In addition, for any storage account that you link as the primary storage account, you must have enabled hierarchical namespace at the creation of the storage account, as described on the Create a Storage Account page.
+1) Azure Data Lake Storage Gen2 storage account - The Azure Synapse workspace needs to be able to read and write to the selected ADLS Gen2 account. In addition, for any storage account that you link as the primary storage account, you must have enabled hierarchical namespace at the creation of the storage account, as described on the Create a Storage Account page. More info on creating Azure Data Lake Storage can be found [here](https://learn.microsoft.com/en-us/azure/storage/blobs/create-data-lake-storage-account)
 
 #### Deployment steps
 
@@ -277,6 +277,8 @@ Dataset | Description | Labels |
   <tr>
     <td align="center"><a href="https://github.com/alexhock"><img src="https://avatars.githubusercontent.com/u/7644157?v=4" width="100px;" alt=""/><br><sub><b>
     Alex Hocking</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/sweanan"><img src="https://avatars.githubusercontent.com/sweanan" width="100px;" alt=""/><br><sub><b>
+    Swetha Anand</b></sub></a><br /></td>
   </tr>
 </table>
 
