@@ -122,9 +122,9 @@ A new Synapse workspace and all cluster configuration and notebooks can be deplo
 * Clone the Playbook repo:
 
   ```bash
-  git clone https://github.com/cse-labs/mlops-data-discovery-playbook
+  git clone https://github.com/microsoft/data-discovery-toolkit
 
-  cd mlops-data-discovery-playbook/environment_preparation/deployment
+  cd data-discovery-toolkit/environment_preparation/deployment
   ```
 
 * Rename the file `vars.sample` to `vars.env`
