@@ -19,3 +19,6 @@ dependencies:
     - pyarrow==11.0.0
     - graphframes==0.6
     - spacy==3.2.4
+    - azure-search-documents==11.4.0b3
+    - fuzzywuzzy==0.18.0
+    - python-Levenshtein==0.21.0

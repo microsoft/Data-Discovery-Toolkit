@@ -221,6 +221,7 @@ This section contains some documented common scenarios:
 | [Image Situation dataset bias](/walkthroughs/imsitu) | A notebook that shows how to detect biases in a labeled image dataset | Synapse
 | [Applying simple heuristics for classification](/walkthroughs/heuristics/standalone_text_heuristics.ipynb) | A notebook that shows how run simple search techniques to quickly get a baseline | Synapse
 | [Classify BBC Sports documents with Azure OpenAI](/walkthroughs/OpenAi-classification/OpenAI-Classification.ipynb) | A notebook that shows how to use OpenAI one-shot classification to quickly get a baseline | Synapse
+| [EDA with Azure OpenAI](/walkthroughs/OpenAI-EDA/BBC_OpenAI_EDA.ipynb) | A notebook that shows how to use OpenAI for EDA including OpenAI Retrieval Augmented Generation Pattern evaluation using Azure Cognitive Search, Azure Cognitive Semantic Search, Azure Synapse/Trident and evaluation, clustering and automated classification  | Synapse
 
 ## Azure Services used in this repository
 
