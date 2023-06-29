@@ -22,3 +22,7 @@ dependencies:
     - azure-search-documents==11.4.0b3
     - fuzzywuzzy==0.18.0
     - python-Levenshtein==0.21.0
+    - tenacity==8.2.2
+    - evaluate==0.4.0
+    - objdict==0.4.4
+    - trectools==0.0.49

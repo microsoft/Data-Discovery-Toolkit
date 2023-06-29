@@ -222,6 +222,7 @@ This section contains some documented common scenarios:
 | [Applying simple heuristics for classification](/walkthroughs/heuristics/standalone_text_heuristics.ipynb) | A notebook that shows how run simple search techniques to quickly get a baseline | Synapse
 | [Classify BBC Sports documents with Azure OpenAI](/walkthroughs/OpenAi-classification/OpenAI-Classification.ipynb) | A notebook that shows how to use OpenAI one-shot classification to quickly get a baseline | Synapse
 | [EDA with Azure OpenAI](/walkthroughs/OpenAI-EDA/BBC_OpenAI_EDA.ipynb) | A notebook that shows how to use OpenAI for EDA including OpenAI Retrieval Augmented Generation Pattern evaluation using Azure Cognitive Search, Azure Cognitive Semantic Search, Azure Synapse/Trident and evaluation, clustering and automated classification  | Synapse
+| [Search Evaluation with Azure OpenAI](/walkthroughs/OpenAI-SearchEvaluator/Search_Evaluator.ipynb) | A notebook that shows how to automate queries from a dataset, build a standard, semantic and hybrid vector Azure Cognitive Search index and evaluate the different indices including the OpenAI Retrieval Augmented Generation (RAG) pattern  | Synapse
 
 ## Azure Services used in this repository
 
